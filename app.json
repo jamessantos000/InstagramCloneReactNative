@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "InstaCopyRN",
+    "slug": "InstaCopyRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "InstaCopyRN"
+}
